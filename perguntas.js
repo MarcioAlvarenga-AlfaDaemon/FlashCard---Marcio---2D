@@ -6,18 +6,19 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual era o nome dado a Luís XVI após ser condenado? ',
+    'Luís Capeto'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    'Quem foi Maria Antonieta?',
+    'Esposa de Luís XVI'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Ciências',
+    'Qual é o processo de divisão celular que resulta na formação de duas células-filhas geneticamente idênticas à célula-mãe?',
+    'Mitose'
+    
 )
