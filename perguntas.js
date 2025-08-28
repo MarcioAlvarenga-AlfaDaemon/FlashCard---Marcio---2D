@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
+    'História',
     'Qual era o nome dado a Luís XVI após ser condenado? ',
     'Luís Capeto'
 )
